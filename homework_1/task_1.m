@@ -15,3 +15,8 @@ c = ... % Circumference of Circle
 fprintf("For a Circle of radius %f", r)
 fprintf("The area is %f \n", a)
 fprintf("The Circumference is %f \n", c)
+
+% Type these in the terminal
+% git add homework_1/task_1.m
+% git commit -m 'finished task 1'                %%%%%% 'the message' 
+% git push origin main             %%%%% the name of the branch in red
